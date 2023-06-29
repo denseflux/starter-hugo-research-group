@@ -13,5 +13,5 @@ social:
 email: steve.ranford@warwick.ac.uk
 superuser: false
 user_groups:
-  - University of Warwick
+  - Researchers
 ---
